@@ -1,0 +1,6 @@
+pip install nba_api
+pip install numpy
+pip install pandas
+pip install pyfiglet
+pip install tabulate
+pip install termcolor
